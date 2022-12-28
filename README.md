@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaleel+Sandeepa;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaleel+Sandeepa;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi 👋, I'm Shaleel Sandeepa</h1> -->
 <!-- <h3 align="center">Software Engineering Undergraduate</h3> -->
