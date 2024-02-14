@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaleelsandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="shaleelsandeepa" /> </p>
 
--   <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
+-   <img align="right" alt="GIF" src="https://github.com/shaleelsandeepa/shaleelsandeepa/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **Web and Mobile Application Development**
 
