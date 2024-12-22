@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **...**
 
-- 📫 How to reach me **shaleelsandeepa7@gmail.com**
+- 📫 How to reach me **shaleelsandeepa@gmail.com**
 
 - 📄 Know about my experiences [...](...)
 
