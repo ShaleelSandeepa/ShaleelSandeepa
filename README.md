@@ -5,29 +5,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaleelsandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="shaleelsandeepa" /> </p>
 
--   <img align="right" alt="GIF" src="https://github.com/shaleelsandeepa/shaleelsandeepa/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
+<h3 align="left">🌟 About Me</h3>
 
-- 🌱 I’m currently learning **Web and Mobile Application Development**
+- 🌱 Currently Learning & Working On: Developing mobile apps, web apps, and e-commerce sites
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 Looking to Collaborate On: Open-source projects, mobile app development, full-stack web development, and e-commerce solutions.
 
-- 📝 I regularly write articles on **...**
+- 💼 Excited to work with innovative teams to build impactful applications.
+  
+- 🚀 Interest On: Coding best practices, new technologies, mobile and web development trends, and software engineering insights.
 
-- 💬 Ask me about **...**
+- 💬  Ask Me About: Mobile app development, web development, coding best practices, and tackling complex programming challenges.
 
-- 📫 How to reach me **shaleelsandeepa@gmail.com**
+- 📫 Reach Me: shaleelsandeepa@gmail.com
 
-- 📄 Know about my experiences [...](...)
+- 📄  Professional Experience: Check out my LinkedIn Profile <a href="www.linkedin.com/in/shaleel-sandeepa">ShaleelSandeepa</a>
 
-- ⚡ Fun fact **...**
+- ⚡ Fun Fact: I thrive on cracking tough coding puzzles, deploying polished apps, and have published mobile apps on the Google Play Store!
+  
+- 📎 Explore my projects at <a href="https://shaleelsandeepa.github.io/my-portfolio/">My Portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaleel-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaleel sandeepa" height="30" width="40" /></a>
 <a href="https://instagram.com/shaleelsandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaleel sandeepa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -49,6 +53,8 @@
   <a href="https://dart.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://flutter.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p><br>
+
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaleelsandeepa&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="shaleelsandeepa" /></p>
 
