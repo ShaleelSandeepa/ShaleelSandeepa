@@ -70,8 +70,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaleelsandeepa&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="shaleelsandeepa" /></p>
+<p align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shaleelsandeepa&show_icons=true&locale=en&layout=compact&theme=react" alt="shaleelsandeepa top languages" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shaleelsandeepa&theme=tokyonight&show_icons=true&locale=en" alt="shaleelsandeepa" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaleelsandeepa&show_icons=true&locale=en&theme=tokyonight" alt="shaleelsandeepa github stats" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaleelsandeepa&theme=algolia" alt="shaleelsandeepa" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaleelsandeepa&theme=algolia" alt="shaleelsandeepa github streak" /></p>
